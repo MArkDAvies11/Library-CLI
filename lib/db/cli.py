@@ -1,5 +1,5 @@
 import sys
-from lib.helpers import (
+from helpers import (
     display_main_menu,
     display_author_menu,
     display_book_menu,

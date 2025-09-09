@@ -1,4 +1,4 @@
-from lib.db.models import Author, Book, Genre, session
+from models import Author, Book, Genre, session
 import sys
 
 def display_main_menu():
