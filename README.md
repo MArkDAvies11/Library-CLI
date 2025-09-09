@@ -37,7 +37,7 @@ From your project's root directory, and with your pipenv shell active, run the m
 
 Bash
 
-python -m lib.cli
+python cli.py
 Navigate the menus:
 The CLI will present a main menu with options to manage authors, books, and genres. Follow the prompts to interact with your data.
 
